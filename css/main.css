@@ -18,6 +18,14 @@ a {
 	color: teal;
 }
 
+a:active {
+	color: gold;
+}
+
+a:hover {
+	color: gold;
+}
+
 .instrument-button{
 	fill:#ffffff;
 	opacity:0.4;
