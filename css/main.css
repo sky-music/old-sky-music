@@ -4,15 +4,15 @@ body {
 
 
 a {
-	color: teal;
+  color: teal;
 }
 
 a:hover {
-	color: darkturquoise;
+  color: darkturquoise;
 }
 
 a:active {
-	color: gold;
+  color: gold;
 }
 
 
