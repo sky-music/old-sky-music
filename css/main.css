@@ -1,0 +1,142 @@
+body {
+  font-family: "Avenir", Arial, sans-serif;
+}
+
+.note-root, .note-diamond, .note-circle {
+  transform: scale(1.0);
+  -ms-transform: scale(1.0);
+  -webkit-transform: scale(1.0);
+}
+
+.note-root svg {
+  display: inline-block;
+  vertical-align: middle;
+} 
+
+.note-diamond svg {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.note-circle svg {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+table {
+  margin: 6px;
+  padding: 0px;
+  display: inline-block;
+  border-style: solid;
+  border-radius: 5px;
+  border-width: 1px;
+  border-color: black;
+
+  
+  
+}
+
+
+table.empty {
+  margin: 6px;
+  padding: 0px;
+  display: inline-block;
+  /*border-spacing: 5px;*/
+  border-style: solid;
+  border-radius: 5px;
+  border-width: 1px;
+  border-color: white;
+  
+
+}
+
+td {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin: 0px;
+}
+
+.instrument-button{
+	fill:#ffffff;
+	opacity:0.4;
+}
+
+#transcript {
+  /*margin: 0 auto;*/
+}
+
+.instrument-button-icon {
+  stroke-width: 3;
+  stroke: white;
+  fill: none;
+}
+
+
+.unhighlighted.instrument-button-icon {
+  stroke-width: 3;
+  stroke: white;
+  fill: grey;
+  opacity: 0.25;
+}
+
+.highlighted-0.instrument-button-icon {
+  stroke-width: 3;
+  stroke: white;
+  fill: none;
+}
+
+
+.highlighted-0 {
+  fill: lightcoral;
+  opacity: 1.0;
+}
+
+.highlighted-1 {
+  fill: orange;
+  opacity: 1.0;
+}
+
+.highlighted-2 {
+  fill: gold;
+  opacity: 1.0;
+}
+
+.highlighted-3 {
+  fill: limegreen;
+  opacity: 1.0;
+}
+
+.highlighted-4 {
+  fill: deepskyblue;
+  opacity: 1.0;
+}
+
+.highlighted-4 {
+  fill: deepskyblue;
+  opacity: 1.0;
+}
+
+.highlighted-5 {
+  fill: darkblue;
+  opacity: 1.0;
+}
+
+.highlighted-6 {
+  fill: blueviolet;
+  opacity: 1.0;
+}
+
+hr {
+  color: grey;
+  opacity: 0.2;
+}
+
+.instrument-button-icon.empty {
+  fill: white;
+  stroke: white;
+}
+
+.note-diamond.empty {
+  fill: white;
+  stroke: white;
+}
