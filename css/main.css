@@ -183,14 +183,38 @@ svg.harp-button-14 path.highlighted-0 {
   opacity: 1.0;
 }
 
+.highlighted-1.instrument-button-icon {
+  stroke-width: 3;
+  stroke: white;
+  fill: none;
+}
+
 .highlighted-2 {
   fill: gold;
   opacity: 1.0;
 }
 
+.highlighted-2.instrument-button-icon {
+  stroke-width: 3;
+  stroke: white;
+  fill: none;
+}
+
 .highlighted-3 {
-  fill: limegreen;
+  fill: aquamarine;
   opacity: 1.0;
+}
+
+.highlighted-3.instrument-button-icon {
+  stroke-width: 3;
+  stroke: white;
+  fill: none;
+}
+
+.highlighted-3.instrument-button-icon {
+  stroke-width: 3;
+  stroke: white;
+  fill: none;
 }
 
 .highlighted-4 {
@@ -198,9 +222,10 @@ svg.harp-button-14 path.highlighted-0 {
   opacity: 1.0;
 }
 
-.highlighted-4 {
-  fill: deepskyblue;
-  opacity: 1.0;
+.highlighted-4.instrument-button-icon {
+  stroke-width: 3;
+  stroke: white;
+  fill: none;
 }
 
 .highlighted-5 {
@@ -208,9 +233,21 @@ svg.harp-button-14 path.highlighted-0 {
   opacity: 1.0;
 }
 
+.highlighted-5.instrument-button-icon {
+  stroke-width: 3;
+  stroke: white;
+  fill: none;
+}
+
 .highlighted-6 {
   fill: blueviolet;
   opacity: 1.0;
+}
+
+.highlighted-6.instrument-button-icon {
+  stroke-width: 3;
+  stroke: white;
+  fill: none;
 }
 
 hr {
