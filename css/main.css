@@ -83,14 +83,56 @@ td {
   /*margin: 0 auto;*/
 }
 
-.instrument-button-icon {
+svg.harp-button-0 .unhighlighted.instrument-button-icon,
+svg.harp-button-1 .unhighlighted.instrument-button-icon,
+svg.harp-button-2 .unhighlighted.instrument-button-icon,
+svg.harp-button-3 .unhighlighted.instrument-button-icon,
+svg.harp-button-4 .unhighlighted.instrument-button-icon {
+  stroke-width: 3;
+  stroke: white;
+  fill: limegreen;
+  opacity: 0.25;
+}
+
+
+svg.harp-button-5 .unhighlighted.instrument-button-icon,
+svg.harp-button-6 .unhighlighted.instrument-button-icon,
+svg.harp-button-7 .unhighlighted.instrument-button-icon,
+svg.harp-button-8 .unhighlighted.instrument-button-icon,
+svg.harp-button-9 .unhighlighted.instrument-button-icon {
+  stroke-width: 3;
+  stroke: white;
+  fill: deepskyblue;
+  opacity: 0.25;
+}
+
+
+svg.harp-button-10 .unhighlighted.instrument-button-icon,
+svg.harp-button-11 .unhighlighted.instrument-button-icon,
+svg.harp-button-12 .unhighlighted.instrument-button-icon,
+svg.harp-button-13 .unhighlighted.instrument-button-icon,
+svg.harp-button-14 .unhighlighted.instrument-button-icon {
+  stroke-width: 3;
+  stroke: white;
+  fill: deeppink;
+  opacity: 0.25;
+}
+
+table.empty .instrument-button-icon {
   stroke-width: 3;
   stroke: white;
   fill: none;
 }
 
 
-.unhighlighted.instrument-button-icon {
+table.empty .unhighlighted.instrument-button-icon {
+  stroke-width: 3;
+  stroke: white;
+  fill: none;
+  opacity: 0.25;
+}
+
+table.empty svg.harp-button-7 .unhighlighted.instrument-button-icon {
   stroke-width: 3;
   stroke: white;
   fill: grey;
