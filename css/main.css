@@ -103,9 +103,36 @@ td {
   fill: none;
 }
 
-
+/*
 .highlighted-0 {
   fill: lightcoral;
+  opacity: 1.0;
+}*/
+
+svg.harp-button-0 path.highlighted-0,
+svg.harp-button-1 path.highlighted-0,
+svg.harp-button-2 path.highlighted-0,
+svg.harp-button-3 path.highlighted-0,
+svg.harp-button-4 path.highlighted-0 {
+  fill: limegreen;
+  opacity: 1.0;
+}
+
+svg.harp-button-5 path.highlighted-0,
+svg.harp-button-6 path.highlighted-0,
+svg.harp-button-7 path.highlighted-0,
+svg.harp-button-8 path.highlighted-0,
+svg.harp-button-9 path.highlighted-0 {
+  fill: deepskyblue;
+  opacity: 1.0;
+}
+
+svg.harp-button-10 path.highlighted-0,
+svg.harp-button-11 path.highlighted-0,
+svg.harp-button-12 path.highlighted-0,
+svg.harp-button-13 path.highlighted-0,
+svg.harp-button-14 path.highlighted-0 {
+  fill: deeppink;
   opacity: 1.0;
 }
 
