@@ -3,13 +3,14 @@
 Music sheets created by fans for thatskygame.
 [https://sky-music.github.io](https://sky-music.github.io)
 
-# Contributors
+# Contributors/Song transcribers
 
 - Tracey
 - Sera
 - Bait
 - Edpliskin89
 - Mel
+- Nezara
 
 # Thanks
 
