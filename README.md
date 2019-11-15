@@ -11,6 +11,7 @@ Music sheets created by fans for thatskygame.
 - Edpliskin89
 - Mel
 - Nezara
+- Peri
 
 # Thanks
 
