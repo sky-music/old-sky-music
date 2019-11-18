@@ -123,6 +123,7 @@ svg.broken rect{
 }
 
 /* <!-- Silent table  (HTML only)--> */
+/* <!-- Legacy empty class table  (HTML only)--> */
 table.silent,
 table.empty {
   border-color:#BBBBBB;
@@ -130,6 +131,7 @@ table.empty {
 }
 
 /* <!-- Silent table  (HTML only)--> */
+/* <!-- Legacy empty class table  (HTML only)--> */
 svg.silent rect,
 svg.empty rect {
   stroke: grey;
@@ -253,6 +255,7 @@ svg.harp-button-14 .unhighlighted.instrument-button-icon {
   opacity: 1;
 }
 /* <!-- Note background when the chord is or is silent --> */
+/* <!-- Legacy empty class --> */
 table.broken .highlighted-0.instrument-button,
 table.silent .highlighted-0.instrument-button,
 table.empty .highlighted-0.instrument-button {
@@ -270,6 +273,7 @@ svg.broken .unhighlighted.instrument-button-icon {
 }
 
 /* <!-- Small note buttons when the chord is silent --> */
+/* <!-- Legacy empty class --> */
 table.silent .unhighlighted.instrument-button-icon,
 svg.silent .unhighlighted.instrument-button-icon,
 table.empty .unhighlighted.instrument-button-icon,
@@ -280,6 +284,7 @@ svg.empty .unhighlighted.instrument-button-icon {
 }
 
 /* <!-- Middle note button when the chord is silent --> */
+/* <!-- Legacy empty class --> */
 table.silent svg.harp-button-7 .unhighlighted.instrument-button-icon,
 svg.silent svg.harp-button-7 .unhighlighted.instrument-button-icon,
 svg.silent.harp-button-7 .unhighlighted.instrument-button-icon,
