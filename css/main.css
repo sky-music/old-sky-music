@@ -45,7 +45,7 @@ p, svg text.headers {
 }
 
 /* Styling for paragraphs on home page (specific to https://sky-music.github.io) */
-p .home-page {
+p.home-page {
 	font-size: 1.0em;
 }
 
