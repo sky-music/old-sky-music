@@ -44,6 +44,11 @@ p, svg text.headers {
 	line-height: 50%;
 }
 
+/* Styling for paragraphs on home page (specific to https://sky-music.github.io) */
+p .home-page {
+	font-size: 1.0em;
+}
+
 .note-root, .note-diamond, .note-circle {
   transform: scale(1.0);
   -ms-transform: scale(1.0);
