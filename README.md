@@ -13,7 +13,7 @@ Music sheets created by fans for thatskygame.
 - Nezara
 - Peri
 - mimizan
--Tarhiel
+- Tarhiel
 
 # Thanks
 
